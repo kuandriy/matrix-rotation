@@ -33,7 +33,7 @@
 
 ## Screenshot
 
-![Server Running Screenshot](./Screenshot.png)
+![Server Running Screenshot](./screenshot.png)
 
 
 # League Backend Challenge
